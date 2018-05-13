@@ -1,0 +1,9 @@
+<RF044_SPN_500_1_4m.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/russia/finder/RF506_SPN_500_Space/lods/RF506_SPN_500_Space_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<nodefullVisual>	content/gameplay/russia/finder/RF506_SPN_500_Space/RF506_SPN_500_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RF044_SPN_500_1_4m.model>

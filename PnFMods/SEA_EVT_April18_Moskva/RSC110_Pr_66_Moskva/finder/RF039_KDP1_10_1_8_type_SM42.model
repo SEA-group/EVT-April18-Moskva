@@ -1,0 +1,9 @@
+<RF039_KDP1_10_1_8_type_SM42.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/russia/finder/RF507_KDP1_SM42_Space/lods/RF507_KDP1_SM42_Space_lod1	</parent>
+	<nodefullVisual>	content/gameplay/russia/finder/RF507_KDP1_SM42_Space/RF507_KDP1_SM42_Space	</nodefullVisual>
+	<extent>	2.000000	</extent>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RF039_KDP1_10_1_8_type_SM42.model>

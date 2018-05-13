@@ -1,0 +1,9 @@
+<RGA066_45mm_SM_20_Zif_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/russia/gun/aaircraft/RGA551_45mm_SM_20_Zif_Space/lods/RGA551_45mm_SM_20_Zif_Space_dead_lod1	</parent>
+	<extent>	3.000000	</extent>
+	<materialNames />
+	<nodefullVisual>	content/gameplay/russia/gun/aaircraft/RGA551_45mm_SM_20_Zif_Space/RGA551_45mm_SM_20_Zif_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RGA066_45mm_SM_20_Zif_dead.model>

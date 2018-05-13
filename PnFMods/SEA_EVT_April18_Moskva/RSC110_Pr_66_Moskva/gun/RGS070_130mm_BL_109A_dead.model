@@ -1,0 +1,9 @@
+<RGS070_130mm_BL_109A_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/lods/RGS553_130mm_BL_109A_Space_dead_lod1	</parent>
+	<extent>	2.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/russia/gun/secondary/RGS553_130mm_BL_109A_Space/RGS553_130mm_BL_109A_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RGS070_130mm_BL_109A_dead.model>

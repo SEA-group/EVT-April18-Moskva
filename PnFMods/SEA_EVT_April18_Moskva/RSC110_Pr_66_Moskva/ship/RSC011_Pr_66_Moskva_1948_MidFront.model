@@ -1,0 +1,8 @@
+<RSC011_Pr_66_Moskva_1948_MidFront.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/russia/ship/cruiser/RSC033_Moskva_Space/lods/RSC033_Moskva_Space_MidFront_lod1	</parent>
+	<extent>	9.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/russia/ship/cruiser/RSC033_Moskva_Space/RSC033_Moskva_Space_MidFront	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RSC011_Pr_66_Moskva_1948_MidFront.model>
